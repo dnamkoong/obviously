@@ -1,0 +1,15 @@
+TODO
+- Get Access Token
+  - Auth with PKCE flow: https://developer.spotify.com/documentation/web-api/tutorials/code-pkce-flow
+
+- comment section for songs?
+- windows media player skin?
+- add chat?
+
+Client ID
+c9a56fb58a794708a52200f92d27efc9
+
+Client Secret
+5c80d00f76c94a788daa85de5db52b06
+
+
