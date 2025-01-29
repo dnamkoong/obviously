@@ -10,6 +10,7 @@
     "start": "serve -s dist"
   },
   "dependencies": {
+    "serve": "^14.2.4",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
   },
