@@ -5,7 +5,7 @@
         type="text"
         placeholder="Search"
       >
-      <img src="../assets/Icons/search.svg" alt="search icon">
+      <img src="../assets/icons/search.svg" alt="search icon">
     </div>
   </div>
 </template>

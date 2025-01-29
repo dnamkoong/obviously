@@ -24,7 +24,7 @@
       @click="deleteDataset(index)"
       class="trashIcon"
     >
-      <img src="../assets/Icons/trash.svg" alt="trash icon">
+      <img src="../assets/icons/trash.svg" alt="trash icon">
     </button>
   </td>
 </template>

@@ -8,7 +8,7 @@
               type="checkbox"
             />
             Dataset Name
-            <img src="../assets/Icons/arrow.svg" alt="arrow icon" class="arrowIcon">
+            <img src="../assets/icons/arrow.svg" alt="arrow icon" class="arrowIcon">
           </th>
           <th class="status">Status</th>
           <th class="createdAt">Created at</th>
