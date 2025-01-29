@@ -6,12 +6,13 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
+    "serve": "vite preview",
     "start": "serve -s dist"
   },
   "dependencies": {
     "vue": "^3.5.13",
-    "vue-router": "^4.5.0"
+    "vue-router": "^4.5.0",
+    "serve": "^13.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.1",
